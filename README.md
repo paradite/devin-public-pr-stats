@@ -1,7 +1,7 @@
 # devin-public-pr-stats
 Stats on public PRs merged by Devin
 
-## PR created and merged in 2024 December
+## PRs created and merged in 2024 December
 
 GitHub search query:
 

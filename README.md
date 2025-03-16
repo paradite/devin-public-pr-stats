@@ -6,7 +6,7 @@ Stats on public PRs merged by Devin
 Stats Summary:
 - December 2024: 1.2k PRs
 - January 2025: 1.5k PRs
-- Feburary 2025: 2.1k PRs
+- February 2025: 2.1k PRs
 
 1.2k PRs merged in December 2024
 
@@ -24,7 +24,7 @@ Stats Summary:
 
 ![Screenshot 2025-02-05 at 4 40 01 PM](https://github.com/user-attachments/assets/36d40f28-fcf0-4585-9aa5-60bf3814500c)
 
-2.1k PRs merged in Feburary 2025
+2.1k PRs merged in February 2025
 
 > GitHub search query: author:devin-ai-integration[bot] is:merged created:>=2025-02-01 merged:<=2025-02-28
 > 

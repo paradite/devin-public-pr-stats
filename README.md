@@ -1,14 +1,15 @@
 # devin-public-pr-stats
 Stats on public PRs merged by Devin
 
-## PRs created and merged
+## Stats
 
-Stats Summary:
-- December 2024: 1.2k PRs
-- January 2025: 1.5k PRs
-- February 2025: 2.1k PRs
-- March 2025: 2.2k PRs
-- April 2025: 3.9k PRs
+PRs created by Devin and merged by month:
+
+- 2024-12: 1.2k PRs
+- 2025-01: 1.5k PRs
+- 2025-02: 2.1k PRs
+- 2025-03: 2.2k PRs
+- 2025-04: 3.9k PRs
 
 ## Details
 

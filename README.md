@@ -53,11 +53,14 @@ PRs created by Devin and merged by month:
 
 > GitHub search query: author:devin-ai-integration[bot] is:merged created:>=2025-05-01 merged:<=2025-05-30
 
-<img width="800" height="644" alt="image" src="https://github.com/user-attachments/assets/e6989f41-23a2-422d-9e77-0161b406e091" />
+![Screenshot 2025-06-31 at 01 20 56 AM](https://github.com/user-attachments/assets/89c2e823-1f7b-4fea-a84b-274f8f32a71c)
+
 
 
 2.7k PRs merged in June 2025 (Until 30th of June)
 
 > GitHub search query: author:devin-ai-integration[bot] is:merged created:>=2025-06-01 merged:<=2025-06-30
 
-<img width="800" height="622" alt="image" src="https://github.com/user-attachments/assets/2dd1aa41-7406-4d4c-8bf2-8f630aa9567f" />
+![Screenshot 2025-06-31 at 01 20 56 AM](https://github.com/user-attachments/assets/ffb77c3e-377f-462d-be81-0f767c7387dc)
+
+

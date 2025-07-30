@@ -11,7 +11,7 @@ PRs created by Devin and merged by month:
 - 2025-03: 2.2k PRs
 - 2025-04: 3.9k PRs
 - 2025-05: 4k PRs
-- 2025-06: 3.9k PRs
+- 2025-06: 2.7k PRs
 
 ## Details
 
